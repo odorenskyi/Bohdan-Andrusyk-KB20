@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1629320071 source:c:\users\user\desktop\bogdan\lab08\prj\modulesandrusyk\main.cpp
+	<iostream>
+	<math.h>
+	<string>
+	<clocale>
+	<stdlib.h>
+	<cmath>
+	<bitset>
+	<windows.h>
+	<fstream>
+	<ctime>
+	"ModulesAndrusyk.h"
+

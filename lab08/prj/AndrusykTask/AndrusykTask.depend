@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1629240389 source:c:\users\user\desktop\bogdan\lab08\prj\andrusyktask\main.cpp
+	<iostream>
+	"ModulesAndrusyk.h"
+	<windows.h>
+	<locale.h>
+	<stdio.h>
+
